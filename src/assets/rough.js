@@ -1,12 +1,4 @@
-/*<div>
-          {display.map((show, i) => (
-            <div>
-              <p>
-                {i} first: {show}
-              </p>
-            </div>
-          ))}
-        </div>
+
 
 
 
